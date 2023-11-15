@@ -1,0 +1,11 @@
+- File name must be matched with the public class name
+- Main method 
+  - a method is a function that is defined in a class
+  - In java main method is the starting point of a program
+  - running a program is equivalent to calling a method
+- Java has two types of memory 
+  - Stack 
+    - stack memory stores local variables and make spaces for functions that are called 
+  - Heap
+    - to be continued
+  
